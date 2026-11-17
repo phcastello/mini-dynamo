@@ -1,0 +1,9 @@
+{
+  "timeout_ms": 1200,
+  "nodes": [
+    { "id": "desktop", "addr": "10.8.8.106:7100" },
+    { "id": "notebook", "addr": null },
+    { "id": "srv22", "addr": "10.1.1.22:7100" },
+    { "id": "srv47", "addr": "10.1.1.47:7100" }
+  ]
+}

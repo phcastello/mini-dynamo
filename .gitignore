@@ -1,0 +1,8 @@
+/target/
+/data/
+/logs/
+/bin/
+/SHA256SUMS.txt
+/BUILD_INFO.json
+/contexto.json
+*.zip
